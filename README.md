@@ -58,3 +58,6 @@
 |-9|프로세스를 강제로 종료|
 
 ---
+
+
+##### :mag_right: 출처: 유닉스 리눅스 명령어 사전 <https://terms.naver.com/list.naver?cid=59321&categoryId=59321>
